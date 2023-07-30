@@ -1,5 +1,6 @@
-# Computational Biology Position Specific Scoring Matrix
-Implementing Position Specific Scoring Matrix (PSSM) Algorithm using Python for computational biological tasks. 
+# Computational Biology Position Specific Scoring Matrices
+
+Implementing Position Specific Scoring Matrices (PSSMs) Algorithm using Python for computational biological tasks. 
 
 ![1](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/06dd2626-165d-48f8-ab00-70a18b067210)
 
@@ -31,7 +32,7 @@ Implementing Position Specific Scoring Matrix (PSSM) Algorithm using Python for 
 
 ![16](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/214d26e8-6f75-4ef0-8560-f22c0074f9a4)
 
-PSSM 
+PSSMs 
 
 1. The multiple aligned DNA sequences is produced in 2 ways:
    
