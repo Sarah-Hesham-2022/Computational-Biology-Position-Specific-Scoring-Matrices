@@ -2,35 +2,35 @@
 
 Implementing Position Specific Scoring Matrices (PSSMs) Algorithm using Python for computational biological tasks. 
 
-![1](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/06dd2626-165d-48f8-ab00-70a18b067210)
+![1](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/5dab2dd2-91c2-40d9-9f6a-b277d9bf8d50)
 
-![2](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/7a24eca6-8a2d-4d5b-8198-a0a268708369)
+![2](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/5a2daf7f-a5c2-4d83-a368-d5efb0f1be07)
 
-![3](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/fa42efc2-dde7-4773-9369-573613bfdf46)
+![3](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/fcc4e1a4-e66a-4d7c-b32c-cc8ba1e32212)
 
-![4](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/e0d99164-4190-49d0-878a-244dba91b160)
+![4](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/51b438bf-79b5-4ab8-8877-d1d4e1035d25)
 
-![5](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/01c83a35-054d-427e-beae-4d0bce0bf015)
+![5](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/89a52468-1fd9-4651-bf4e-d4d8df07a17c)
 
-![6](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/683d21ca-0e52-42c4-b16c-8c0e7c3d7b35)
+![6](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/98c70df7-473e-4d49-83ab-1969b3f16cd5)
 
-![7](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/32e10a41-c42c-4b2a-b38e-7ab195c80232)
+![7](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/55ceaa0e-a9ad-4eb3-972e-021d46ce8a0d)
 
-![8](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/38edc529-ba07-4cac-9020-5d43403edd4e)
+![8](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/fa8b6c86-c337-4291-9837-54d9bf513c0b)
 
-![10](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/c31b0af3-0258-436d-b0a7-165718d9889f)
+![9](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/2afeec44-adb2-4540-bbed-40957f469965)
 
-![11](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/16c0a0ed-5c39-4a2e-b9f0-279b64f908d2)
+![10](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/241d4844-51de-4579-aa8c-5b398fbd86b6)
 
-![12](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/c3c48047-69b9-4253-b062-c460423f7dcd)
+![11](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/48d75a79-86ed-4dac-b7f1-27ebb3859c5a)
 
-![13](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/bd2be669-8ba7-4f99-99d4-21c3dda428c2)
+![12](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/17861b8f-de52-40b1-a868-cb2dfbb93d66)
 
-![14](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/8408a0b5-5fcc-4585-80a9-ebc45c2ce722)
+![13](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/d8a7900f-582b-49c3-b28e-8bbf2e386a4b)
 
-![15](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/3131c611-48b7-455f-8dff-011125363693)
+![14](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/2d650c33-4e7b-44b7-bceb-e71f12b8a03e)
 
-![16](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrix/assets/112272836/214d26e8-6f75-4ef0-8560-f22c0074f9a4)
+![15](https://github.com/Sarah-Hesham-2022/Computational-Biology-Position-Specific-Scoring-Matrices/assets/112272836/404efb73-bc71-4fa2-bff8-adeaf2743158)
 
 PSSMs 
 
